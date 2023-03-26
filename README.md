@@ -1,3 +1,3 @@
 Check my services at https://nvpmai.github.io/
 
-[My resume](/pdf/Data_Engineer__Mai_Nguyen.pdf)
+[Download my CV](https://nvpmai.github.io/pdf/Data_Engineer__Mai_Nguyen.pdf)
