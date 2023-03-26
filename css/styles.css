@@ -714,6 +714,7 @@ img {
 .services-container .services-content .services-modal-content .services-modal-icon {
   color: var(--first-color);
   margin-right: var(--mb-0-5);
+  margin-top: 4px;
 }
 
 /* PORTFOLIO */
@@ -897,7 +898,7 @@ img {
 
 .footer-bg {
   background-color: var(--first-color-second);
-  padding: 2rem 0 3rem;
+  padding: 2rem 0 2rem;
 }
 
 .footer-container {
@@ -936,7 +937,6 @@ img {
   font-size: var(--smaller-font-size);
   text-align: center;
   color: #fff;
-  margin-top: var(--mb-3);
 }
 
 .footer .footer-title,
@@ -1146,7 +1146,7 @@ img {
     bottom: initial;
   }
   .section {
-    padding: 8rem 0 2rem;
+    padding: 8rem 0 0;
   }
   .header,
   .main,
@@ -1213,14 +1213,14 @@ img {
     margin: 0 var(--mb-1-5);
   }
   .services-container {
-    grid-template-columns: repeat(3, 218px);
+    grid-template-columns: repeat(2, 218px);
     justify-content: center;
   }
   .services-container .services-icon {
     font-size: 2rem;
   }
   .services-container .services-content {
-    padding: 4rem 0 2rem 2.5rem;
+    padding: 2rem 0 2rem 2.5rem;
   }
   .portfolio-img {
     width: 320px !important;
@@ -1261,7 +1261,7 @@ img {
     transform: translateX(-5rem);
   }
   .services-container {
-    grid-template-columns: repeat(3, 270px);
+    grid-template-columns: repeat(2, 270px);
   }
   .portfolio-container {
     margin-bottom: 2.5rem;
